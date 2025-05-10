@@ -1,0 +1,51 @@
+/* body styling */
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+/* Profile image styling */
+#dp {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+/* Card Styling */
+#card {
+    background-color: rgb(31, 31, 31);
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    max-width: 320px;
+    width: 90%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+/* London United Kingdom */
+#location {
+    color: hsl(75, 94%, 57%);
+    font-size: 14px;
+}
+#para {
+  font-size: 0.875rem;
+ color: rgb(255, 255, 255);
+  margin-bottom: 1.5rem;
+}
+#links a {
+    background-color: hsl(0, 0%, 20%);
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 0.75rem;
+    border-radius: 10px;
+    margin-bottom: 0.75rem;
+}
+#links a:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}

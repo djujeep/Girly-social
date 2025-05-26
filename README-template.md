@@ -38,13 +38,14 @@ Users should be able to:
 - HTML
 - CSS custom properties
 - Flexbox
+- Grid
 ### What I learned
 
-I learnt the hoe to use flexbox
+I learnt the hoe to use flexbox and Grid
 To see how you can add code snippets, see below:
 
 ### Continued development
-Flexbox 
+Flexbox and Grid
 
 ## Author
 

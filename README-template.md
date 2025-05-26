@@ -37,15 +37,16 @@ Users should be able to:
 
 - HTML
 - CSS custom properties
-- Flexbox
-- Grid
+- Flexbox/Grid
+  
+
 ### What I learned
 
-I learnt the hoe to use flexbox and Grid
+I learnt the hoe to use flexbox/Grid
 To see how you can add code snippets, see below:
 
 ### Continued development
-Flexbox and Grid
+Flexbox/Grid
 
 ## Author
 
